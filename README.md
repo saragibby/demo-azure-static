@@ -1,0 +1,1 @@
+# demo-azure-static
