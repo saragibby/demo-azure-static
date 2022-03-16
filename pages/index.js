@@ -48,6 +48,8 @@ export default function Home() {
               DevRel Fix/Hack/Learn 2022 - Amplify refinement and engagement
             </p>
           </a>
+
+          <p>Talking to ALfredo is super cool!</p>
         </div>
       </main>
 
