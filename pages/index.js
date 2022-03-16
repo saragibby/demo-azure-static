@@ -21,29 +21,29 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Documentation &rarr;</h2>
+          <a href="https://studentambassadors.microsoft.com/" className={styles.card}>
+            <h2>Project 1</h2>
             <p>Find in-depth information about Next.js features and API.</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h2>Learn &rarr;</h2>
+          <a href="https://purple-water-0b08b5f0f.azurestaticapps.net/" className={styles.card}>
+            <h2>Project 2</h2>
             <p>Learn about Next.js in an interactive course with quizzes!</p>
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
+            href="https://github.com/saragibby"
             className={styles.card}
           >
-            <h2>Examples &rarr;</h2>
+            <h2>Project 3</h2>
             <p>Discover and deploy boilerplate example Next.js projects.</p>
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://garagehackbox.azurewebsites.net/hackathons/2364/details/general"
             className={styles.card}
           >
-            <h2>Deploy &rarr;</h2>
+            <h2>Project 4</h2>
             <p>
               Instantly deploy your Next.js site to a public URL with Vercel.
             </p>
@@ -53,11 +53,11 @@ export default function Home() {
 
       <footer className={styles.footer}>
         <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="https://microsoft.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Sara Gibboons - Azure Static Web App Demo
+          Sara Gibbons - Azure Static Web App Demo
         </a>
       </footer>
     </div>
