@@ -50,6 +50,8 @@ export default function Home() {
           </a>
 
           <p>Talking to ALfredo is super cool!</p>
+
+          <p>Hi JasminE! this is so fuN!</p>
         </div>
       </main>
 
