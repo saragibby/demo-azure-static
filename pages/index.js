@@ -57,7 +57,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by Next.js
+          Sara Gibboons - Azure Static Web App Demo
         </a>
       </footer>
     </div>
