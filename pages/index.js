@@ -16,19 +16,19 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          Sara Gibbons - Software Engineer
+          <br/>
         </p>
 
         <div className={styles.grid}>
           <a href="https://studentambassadors.microsoft.com/" className={styles.card}>
             <h2>Project 1</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <p>Current project building out as part of team at Microsoft.</p>
           </a>
 
           <a href="https://purple-water-0b08b5f0f.azurestaticapps.net/" className={styles.card}>
             <h2>Project 2</h2>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+            <p>Microsoft Global Hackathon 2021 - Amplify Women In Tech</p>
           </a>
 
           <a
@@ -36,7 +36,7 @@ export default function Home() {
             className={styles.card}
           >
             <h2>Project 3</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <p>GitHub profile to see all my latest work and open source contributions.</p>
           </a>
 
           <a
@@ -45,7 +45,7 @@ export default function Home() {
           >
             <h2>Project 4</h2>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              DevRel Fix/Hack/Learn 2022 - Amplify refinement and engagement
             </p>
           </a>
         </div>
